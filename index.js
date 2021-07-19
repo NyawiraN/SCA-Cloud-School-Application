@@ -1,5 +1,3 @@
-console.log('Hello World');
-
 for (let step = 1; step < 31; step++) {
 
 
