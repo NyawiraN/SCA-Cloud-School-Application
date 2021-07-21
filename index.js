@@ -1,3 +1,5 @@
+console.log("My First Project")
+
 for (let step = 1; step < 31; step++) {
 
 
